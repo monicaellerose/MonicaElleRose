@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
-<h3 align="center">Host of QueerCultured Podcast</h3>
+<h3 align="center">Transgender Host of QueerCultured Podcast</h3>
 
 - 🔭 I’m currently working on [QueerCultured Podcast](https://queercultured.com/) and [Monica Rose Patreon](https://www.patreon.com/ElleRows)
 
