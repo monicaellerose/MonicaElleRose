@@ -14,8 +14,3 @@
 <a href="https://www.youtube.com/c/ellerows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ellerows" height="30" width="40" /></a>
 <a href="https://discord.gg/N6YJSq7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N6YJSq7" height="30" width="40" /></a>
 </p>
-
-
-<li><span class="fa-li"><i class="fa-brands fa-tiktok"></i></span><a rel="me" href="https://www.tiktok.com/@elle.rows">Tik.tok</a></li>
-
-<li><span class="fa-li"><i class="fa-brands fa-twitch"></i></span><a rel="me" href="https://www.twitch.tv/ellerows">Twitch</a></li>
