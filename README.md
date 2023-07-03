@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
-<h3 align="center">Hi</h3>
+<h3 align="center">find me on bluesky @monicarose.ca</h3>
 
 - 🔭 I’m currently working on resetting my sleep schedule.
 
